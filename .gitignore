@@ -10,7 +10,6 @@ bin-release/
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
 dist/
-cert/
 obj/
 AIR_Android_readme.txt
 AIR_iOS_readme.txt
